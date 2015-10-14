@@ -1,4 +1,6 @@
-Программа для сортировки CSV файла
-sortCSV.rb
-data.csv
-output.csv
+#Программа для сортировки CSV файла
+logic -> sortCSV.rb 
+
+in file -> data.csv
+
+out file -> output.csv
